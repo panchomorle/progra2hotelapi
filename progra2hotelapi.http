@@ -1,0 +1,6 @@
+@progra2hotelapi_HostAddress = http://localhost:5188
+
+GET {{progra2hotelapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
