@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using Microsoft.EntityFrameworkCore.SqlServer;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +17,12 @@ builder.Services.AddSwaggerGen(c =>
 
 // Configura los controladores
 builder.Services.AddControllers();
+
+
+
+builder.Services.AddDbContext<HotelDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 var app = builder.Build();
 
