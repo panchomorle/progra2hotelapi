@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("progra2hotelapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f58389cc5bba6135d77deb4529ad3af7eacb9f22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f7c333c4d380011bce5b22ce102aa036288ceb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("progra2hotelapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("progra2hotelapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
