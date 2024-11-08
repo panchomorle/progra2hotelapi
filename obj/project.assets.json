@@ -4490,19 +4490,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jheral\\.nuget\\packages\\": {}
+    "C:\\Users\\Juampi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jheral\\Documents\\GitHub\\progra2hotelapi\\progra2hotelapi.csproj",
+      "projectUniqueName": "E:\\Documentos\\dev\\JERALD\\progra2hotelapi\\progra2hotelapi.csproj",
       "projectName": "progra2hotelapi",
-      "projectPath": "C:\\Users\\Jheral\\Documents\\GitHub\\progra2hotelapi\\progra2hotelapi.csproj",
-      "packagesPath": "C:\\Users\\Jheral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jheral\\Documents\\GitHub\\progra2hotelapi\\obj\\",
+      "projectPath": "E:\\Documentos\\dev\\JERALD\\progra2hotelapi\\progra2hotelapi.csproj",
+      "packagesPath": "C:\\Users\\Juampi\\.nuget\\packages\\",
+      "outputPath": "E:\\Documentos\\dev\\JERALD\\progra2hotelapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jheral\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Juampi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -4520,6 +4520,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4574,7 +4579,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.110/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

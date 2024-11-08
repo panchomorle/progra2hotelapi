@@ -286,3 +286,14 @@ C:\Users\Jheral\Documents\GitHub\progra2hotelapi\obj\Debug\net8.0\refint\progra2
 C:\Users\Jheral\Documents\GitHub\progra2hotelapi\obj\Debug\net8.0\progra2hotelapi.pdb
 C:\Users\Jheral\Documents\GitHub\progra2hotelapi\obj\Debug\net8.0\progra2hotelapi.genruntimeconfig.cache
 C:\Users\Jheral\Documents\GitHub\progra2hotelapi\obj\Debug\net8.0\ref\progra2hotelapi.dll
+E:\Documentos\dev\JERALD\progra2hotelapi\obj\Debug\net8.0\progra2hotelapi.csproj.AssemblyReference.cache
+E:\Documentos\dev\JERALD\progra2hotelapi\obj\Debug\net8.0\progra2hotelapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\dev\JERALD\progra2hotelapi\obj\Debug\net8.0\progra2hotelapi.AssemblyInfoInputs.cache
+E:\Documentos\dev\JERALD\progra2hotelapi\obj\Debug\net8.0\progra2hotelapi.AssemblyInfo.cs
+E:\Documentos\dev\JERALD\progra2hotelapi\obj\Debug\net8.0\progra2hotelapi.csproj.CoreCompileInputs.cache
+E:\Documentos\dev\JERALD\progra2hotelapi\obj\Debug\net8.0\progra2hotelapi.MvcApplicationPartsAssemblyInfo.cs
+E:\Documentos\dev\JERALD\progra2hotelapi\obj\Debug\net8.0\progra2hotelapi.MvcApplicationPartsAssemblyInfo.cache
+E:\Documentos\dev\JERALD\progra2hotelapi\obj\Debug\net8.0\progra2hotelapi.sourcelink.json
+E:\Documentos\dev\JERALD\progra2hotelapi\obj\Debug\net8.0\progra2hotelapi.dll
+E:\Documentos\dev\JERALD\progra2hotelapi\obj\Debug\net8.0\refint\progra2hotelapi.dll
+E:\Documentos\dev\JERALD\progra2hotelapi\obj\Debug\net8.0\progra2hotelapi.pdb
